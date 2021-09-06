@@ -1,6 +1,6 @@
 # Floating-css
 
-# Membuat Website Cleaning Service Menggunakan Teknik Floating
+# Membuat Website Cleaning Service.
 
 Teknologi yang digunakan yaitu:
 - HTML Vanilla
