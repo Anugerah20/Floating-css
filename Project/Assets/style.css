@@ -99,7 +99,7 @@ html {
     outline: none;
     border: 2px solid rgb(87, 90, 136);
     cursor: pointer;
-    transition: all 1s ease;
+    transition: all 1s ease-in;
 }
 
 #hero .btn-hero:hover {
