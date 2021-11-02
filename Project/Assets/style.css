@@ -371,6 +371,11 @@ form.send input[type='text'] {
     padding: 4px;
 }
 
+#footer .footer-center {
+  margin-top: 20px;
+  text-align: center;
+}
+
 #footer .footer-copy {
     text-align: center;
     padding: 4px;
